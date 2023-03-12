@@ -1,1 +1,3 @@
-this is a sample file one
+	
+	this is a sample file one.
+	This is a test for git reset.
