@@ -1,3 +1,4 @@
 	
 	this is a sample file one.
 	This is a test for git reset.
+	This is git revert commit 1.
